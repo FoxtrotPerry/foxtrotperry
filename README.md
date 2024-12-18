@@ -10,8 +10,8 @@ I ❤️ full stack engineering!
 ## Roles and Accomplishments
 
 - 💼 Senior Software Engineer at [Shiftsmart](https://shiftsmart.com/)
-- ✈️ Was a crucial component in the development and success of https://kinotek.com
-- ✈️ Worked at BAE Systems on [GXP Xplorer](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/) and was a very early contributor to arguably their most important feature, [GXP Fusion](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/gxp-fusion/)
+- 📈 Was a crucial component in the development and success of https://kinotek.com
+- 🛫 Worked at BAE Systems on [GXP Xplorer](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/) and was a very early contributor to arguably their most important feature, [GXP Fusion](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/gxp-fusion/)
 - 👨‍🏫 Do Full Stack consulting on the side
 - 🏆 Won [Hack Upstate's Hack Mohawk Valley Hackathon](https://hackupstate.medium.com/hack-mohawk-valley-the-results-are-in-4dff78924a61)
 
