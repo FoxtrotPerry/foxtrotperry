@@ -12,7 +12,7 @@ I ❤️ full stack engineering!
 - 💼 Senior Software Engineer at [Shiftsmart](https://shiftsmart.com/)
 - 📈 Was a crucial component in the development and success of https://kinotek.com (Senior Software Engineer)
 - 🛫 Worked at [BAE Systems](https://www.baesystems.com/en/home) on [GXP Xplorer](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/) and was a very early contributor to arguably their most important feature, [GXP Fusion](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/gxp-fusion/) (Software Engineer -> Software Engineer II)
-- 👨‍🏫 Do Full Stack consulting on the side (if interested, send me an email at caleb@foxtrotperry.com!)
+- 👨‍🏫 Do Full Stack consulting on the side (feel free to reach out! caleb@foxtrotperry.com)
 - 🏆 Won [Hack Upstate's Hack Mohawk Valley Hackathon](https://hackupstate.medium.com/hack-mohawk-valley-the-results-are-in-4dff78924a61)
 
 ### My favorite technologies right now
