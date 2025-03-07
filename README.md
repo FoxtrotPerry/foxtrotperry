@@ -1,4 +1,4 @@
-## Hi! I'm Caleb 👋
+# Hi! I'm Caleb 👋
 
 I'm a Senior Software Engineer with 5+ years of industry experience in obsessing over user
 expectations, requirements, and how best to meet them! I have experience leading and
@@ -9,6 +9,7 @@ I ❤️ full stack engineering!
 
 ## Roles and Accomplishments
 
+- ✈ Senior Software Engineer at [Onebrief](https://onebrief.com)
 - 💼 Senior Software Engineer at [Shiftsmart](https://shiftsmart.com/)
 - 📈 Was a crucial component in the development and success of https://kinotek.com <i>(Senior Software Engineer)</i>
 - 🛫 Worked at [BAE Systems](https://www.baesystems.com/en/home) on [GXP Xplorer](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/) and was a very early contributor to arguably their most important feature, [GXP Fusion](https://www.geospatialexploitationproducts.com/content/gxp-xplorer-platform/gxp-fusion/) <i>(Software Engineer → Software Engineer II)</i>
